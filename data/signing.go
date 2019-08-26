@@ -1,7 +1,7 @@
 package data
 
 import (
-	"github.com/rubblelabs/ripple/crypto"
+	"github.com/go-chain/go-xrp/crypto"
 )
 
 func Sign(s Signer, key crypto.Key, sequence *uint32) error {

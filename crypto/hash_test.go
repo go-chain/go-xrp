@@ -3,7 +3,7 @@ package crypto
 import (
 	"testing"
 
-	. "github.com/rubblelabs/ripple/testing"
+	. "github.com/go-chain/go-xrp/testing"
 	. "gopkg.in/check.v1"
 )
 

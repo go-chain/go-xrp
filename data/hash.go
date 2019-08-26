@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/rubblelabs/ripple/crypto"
+	"github.com/go-chain/go-xrp/crypto"
 )
 
 type KeyType int

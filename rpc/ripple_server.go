@@ -2,7 +2,7 @@ package rpc
 
 import (
 	"encoding/json"
-	"go-ripple/tools/http"
+	"github.com/go-chain/go-xrp/tools/http"
 )
 
 func (c *Client) GetServerInfo() (*ServerInfoResult, error) {

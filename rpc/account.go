@@ -4,8 +4,8 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"fmt"
-	"go-ripple/crypto"
-	"go-ripple/tools/http"
+	"github.com/go-chain/go-xrp/crypto"
+	"github.com/go-chain/go-xrp/tools/http"
 	"net/url"
 )
 

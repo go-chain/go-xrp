@@ -3,7 +3,7 @@ package rpc
 import (
 	"encoding/hex"
 	"fmt"
-	"go-ripple/data"
+	"github.com/go-chain/go-xrp/data"
 	"math/rand"
 	"testing"
 	"time"

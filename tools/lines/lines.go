@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/rubblelabs/ripple/data"
-	"github.com/rubblelabs/ripple/terminal"
-	"github.com/rubblelabs/ripple/websockets"
+	"github.com/go-chain/go-xrp/data"
+	"github.com/go-chain/go-xrp/terminal"
+	"github.com/go-chain/go-xrp/websockets"
 )
 
 const usage = `Usage: lines [ripple address] [options]
